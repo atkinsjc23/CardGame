@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# Author:   J. Cameron Atkins
-# Email:    atkinsjc23@gmail.com
+# Authors:   J. Cameron Atkins
+#            Caleb Davis
 
 import numpy as np
 import argparse
