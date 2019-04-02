@@ -2,7 +2,7 @@
 # Authors:   J. Cameron Atkins
 #            Caleb Davis
 
-import numpy as np
+#import numpy as np
 import argparse
 import subprocess as sp
 import socket 
@@ -22,7 +22,7 @@ class player:
 
 if __name__ == "__main__":
     
-    while input():
+    while True:
         resp = input()
         print(resp)
         if resp == 'done':
